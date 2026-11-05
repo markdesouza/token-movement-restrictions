@@ -4,7 +4,7 @@
   "description": "Restrict player-controlled token elevation changes and prevent tokens from ending on occupied spaces. Includes a flying-speed exception and GM override.",
   "version": "1.0.0",
   "authors": [
-    { "name": "Custom module" }
+    { "name": "Mark De Souza" }
   ],
   "compatibility": {
     "minimum": "14",
