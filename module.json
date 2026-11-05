@@ -3,6 +3,8 @@
   "title": "Token Movement Restrictions",
   "description": "Restrict player-controlled token elevation changes and prevent tokens from ending on occupied spaces. Includes a flying-speed exception and GM override.",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/markdesouza/token-movement-restrictions/refs/heads/main/module.json",
+  "download": "https://github.com/markdesouza/token-movement-restrictions/releases/download/v1.0.0/token-movement-restrictions-v1.0.0.zip"
   "authors": [
     { "name": "Mark De Souza" }
   ],
