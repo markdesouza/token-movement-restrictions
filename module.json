@@ -1,0 +1,17 @@
+{
+  "id": "token-movement-restrictions",
+  "title": "Token Movement Restrictions",
+  "description": "Restrict player-controlled token elevation changes and prevent tokens from ending on occupied spaces. Includes a flying-speed exception and GM override.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "Custom module" }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "readme": "README.md"
+}
